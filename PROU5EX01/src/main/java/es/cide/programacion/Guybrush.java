@@ -1,6 +1,3 @@
-//Nombre: Blai Lorente Fuster
-//DNI: 43482846N
-//Fecha: 09/12/2025
 package es.cide.programacion;
 
 import java.util.Random;
@@ -88,3 +85,4 @@ public class Guybrush extends Heroi implements Fight, Speak{
     public void insultar(){   
     }
 }
+
