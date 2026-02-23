@@ -1,6 +1,3 @@
-//Nombre: Blai Lorente Fuster
-//DNI: 43482846N
-//Fecha: 09/12/2025
 package es.cide.programacion;
 
 import java.util.Random;
@@ -97,4 +94,5 @@ public class LeChuck extends Pirata implements Fight, Speak {
         "¡Te perseguiré dia y noche sin ningún respeto!",
         "Me haces pensar que alguien ya lo ha hecho."
     };
+
 }
