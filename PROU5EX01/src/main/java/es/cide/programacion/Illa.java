@@ -1,6 +1,3 @@
-//Nombre: Blai Lorente Fuster
-//DNI: 43482846N
-//Fecha: 09/12/2025
 package es.cide.programacion;
 
 import java.util.Random;
@@ -56,4 +53,5 @@ public class Illa {
     public Pirata vullUnPirata(int index) { //Muestra un pirata del array donde estan los piratas
         return piratas[index];
     }
+
 }
